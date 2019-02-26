@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "611248851400",
+    "firebase_url": "https://eventitall.firebaseio.com",
+    "project_id": "eventitall",
+    "storage_bucket": "eventitall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611248851400:android:799a581b8243ccab",
+        "android_client_info": {
+          "package_name": "yasantha.tharindu.plan_it_all"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611248851400-drsjpd2cl6o1caukqkn4vshduv2decps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAgJgfdSGWXH4wEFw1qmSL2m8FSbeP8uo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
